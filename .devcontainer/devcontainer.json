@@ -1,0 +1,17 @@
+{
+  "name": "${localWorkspaceFolderBasename} (.NET 10)",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:1-10.0-noble",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csdevkit",
+        "ms-dotnettools.csharp",
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "editorconfig.editorconfig",
+        "mhutchie.git-graph"
+      ]
+    }
+  }
+}
+

@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/totp/">
+    <Project Path="totp/roxy_totp.csproj" />
+  </Folder>
+  <Project Path="tests/tests.csproj" />
+</Solution>
